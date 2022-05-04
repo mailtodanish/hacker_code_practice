@@ -1,6 +1,3 @@
-from re import S
-
-
 def print_rangoli(size):
     s = (2 * size - 1) + (2 * size - 2)
 
